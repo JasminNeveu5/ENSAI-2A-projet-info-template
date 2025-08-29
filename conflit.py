@@ -1,4 +1,4 @@
 print("modif debut debut")
-print("rien")
+print("ligne2")
 print("encore")
 print("modif fin")
