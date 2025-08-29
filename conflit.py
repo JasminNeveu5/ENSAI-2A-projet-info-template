@@ -1,5 +1,6 @@
 print("modif debut debut")
 print("oausioausi")
 print("rien")
+print("ligne2")
 print("encore")
 print("modif fin")
